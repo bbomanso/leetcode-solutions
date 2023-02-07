@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class LengthOfLastWord {
     public static void main(String[] args) {
         String str = "   fly me   to   the moon  ";
